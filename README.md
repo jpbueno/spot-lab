@@ -1,4 +1,4 @@
-# JP's EC2 Spot Lab
+# [LAB] JP's EC2 Spot Lab
 
 **Verify latest Amazon Linux 2 AMI**
 
