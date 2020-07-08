@@ -15,7 +15,7 @@ aws ec2 create-launch-template --cli-input-json file://launch-template.json
 ## Create ASG with Lowest Price as spot allocation strategy
 
 ```bash
-aws autoscaling create-auto-scaling-group --cli-input-json file://asg-lowest-price-n-1.json`
+aws autoscaling create-auto-scaling-group --cli-input-json file://asg-lowest-price-n-1.json
 ```
 
 ## Create ASG with Capacity Optimized as spot allocation strategy
