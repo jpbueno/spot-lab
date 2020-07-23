@@ -3,7 +3,7 @@
   "MixedInstancesPolicy": {
     "LaunchTemplate": {
       "LaunchTemplateSpecification": {
-        "LaunchTemplateName": "amazon-linux-2",
+        "LaunchTemplateName": "amazon-linux-2-spot-lab",
         "Version": "$Latest"
       },
       "Overrides": [
