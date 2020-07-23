@@ -1,8 +1,8 @@
 {
-    "LaunchTemplateName": "amazon-linux-2",
+    "LaunchTemplateName": "amazon-linux-2-spot-lab",
     "VersionDescription": "Launch template for Amazon Linux 2 AMI",
     "LaunchTemplateData": {
-        "ImageId": "ami-09d95fab7fff3776c",
+        "ImageId": "ami-0b898040803850657",
         "TagSpecifications": [
             {
                 "ResourceType": "instance",
